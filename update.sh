@@ -1,8 +1,8 @@
-# Código desarrollado por @gata_dios 
+# Código desarrollado por @d.e.s.s.n_official17 
   
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="GataBot-MD"  
-BOT_REPO="https://github.com/GataNina-Li/$BOT_DIR"
+BOT_DIR="KanakiBot-MD"  
+BOT_REPO="https://github.com/Saldarriaga184/$BOT_DIR"
 DB_FILE="database.json"
  
 GREEN='\033[32m'
